@@ -4,7 +4,7 @@
 
 This game is inspired by Diablo 1 and is created by Nikolaj Jenning Hansen. 
 
-[Start your adventure] https://vimeo.com/manage/videos/570203789
+[Start your adventure] (https://vimeo.com/manage/videos/570203789)
 
 ![Enter the evil church](church.gif)
 
